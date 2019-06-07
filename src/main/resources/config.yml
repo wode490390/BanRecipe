@@ -1,0 +1,7 @@
+craft-msg: "&cThis item cannot be crafted!"
+# item id
+ban:
+  craft-result:
+    - 46
+  smelt-result: []
+  smelt-fuel: []
