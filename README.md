@@ -4,6 +4,10 @@
 Ban recipe plugin for Nukkit
 
 Please see [mcbbs](http://www.mcbbs.net/thread-871470-1-1.html) for more information.
+## Permissions
+| Permission | Description | Default |
+| - | - | - |
+| banrecipe.craft | Allows player to craft banned recipes | OP |
 ## config.yml
 ```yaml
 craft-msg: "&cThis item cannot be crafted!"
